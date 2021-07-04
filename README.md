@@ -22,20 +22,20 @@ Face Recognition:It involved three steps:
 ### Results
 A random image was selected from the dataset and observed the similarities of that image from the image which we have provide in the code.\
 **Input Image**:\
-![Input](Elon-Musk.jpg)\
+![Input](Elon-Musk.jpg)
 
 **Random Image**:\
-![Random](Elon-Test.jpg)\
+![Random](Elon-Test.jpg)
 
 **Output Image with labeling**:\
-![Output](Elon2-1.jpg)\
+![Output](Elon2-1.jpg)
 
 Now we will take input of Bill Gates's photo and lets see what will happen.
 
 **Output Image with labeling**:\
-![Output1](Elon2-2.jpg)\
+![Output1](Elon2-2.jpg)
 
-###Hurray! We got it right.
+### Hurray! We got it right.
 
 
 
