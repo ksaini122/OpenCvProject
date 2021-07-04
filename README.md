@@ -30,9 +30,12 @@ A random image was selected from the dataset and observed the similarities of th
 **Output Image with labeling**:\
 ![Output](Elon2-1.jpg)\
 
-Now we will take input of Bill Gates's photo and lets see what will happen./
+Now we will take input of Bill Gates's photo and lets see what will happen.
+
 **Output Image with labeling**:\
 ![Output1](Elon2-2.jpg)\
+
+###Hurray! We got it right.
 
 
 
