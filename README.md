@@ -1,18 +1,14 @@
 # Face Attendence Project
 
 ## Packages involved
-1)opencv-python
-2)numpy
-3)face_recognition
-4)dlib
-5)cmake
+opencv-python, numpy, face_recognition, dlib, cmake
 
 ## Contributed By
-Kunal Saini,Kushal Maheshwari,Tanay Bavchikar
+Kunal Saini, Kushal Maheshwari, Tanay Bavchikar
 
 ## Summary
 ### Understanding the project
-1)First, look at a picture and find all the faces .
+1)First, look at a picture and find all the faces. 
 2)Second, focus on each face and be able to understand that even if a face is turned in a random direction or in bad lighting, it is still the same person.
 3)Third, be able to pick out unique features of the face.
 4)Finally, compare the unique features of that face to all the people you already know to determine the person’s name.
