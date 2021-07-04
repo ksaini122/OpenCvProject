@@ -22,7 +22,7 @@ Face Recognition:It involved three steps:
 ### Results
 A random image was selected from the dataset and observed the similarities of that image from the image which we have provide in the code.\
 **Input Image**:\
-![Input](assets/Elon-Musk.jpg)\
+![Input](Elon-Musk.jpg)\
 
 
 
