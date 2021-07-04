@@ -17,7 +17,7 @@
 #### 1.	Image importing to database and coverting to RGB:
 First we load the images into our database,import relevant libraries and convert it to  RGB .
 #### 2.	 Find faces location and compute encodings:
-   Here we use face recognition library to find faces in our image using histogram of orientated gradients and  we remove the rotations and feed it to a neural network that puts it into 128 measurements that are unique to a particular face.
+   Here we use face recognition library to find faces in our image using histogram HOG of orientated gradients and  we remove the rotations and feed it to a neural network that puts it into 128 measurements that are unique to a particular face.
 #### 3.	Compare faces:
 now we compare two faces to find similarities by using compare_faces function to find if the faces match.The function used here returns true or false.We also use Face_distance to find how likely the faces match in terms of numbers.
 #### 4.	Labelling faces:
