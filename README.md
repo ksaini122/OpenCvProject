@@ -27,6 +27,10 @@ A random image was selected from the dataset and observed the similarities of th
 **Random Image**:\
 ![Random](Elon-Test.jpg)\
 
+**Output Image with labeling**:\
+![Output](Elon.jpg)\
+
+
 
 
 
