@@ -4,7 +4,7 @@
 opencv-python, numpy, face_recognition, dlib, cmake
 
 ## Contributed By
-Kunal Saini, Kushal Maheshwari, Tanay Bavchikar
+Kunal Saini, Kushal Maheshwari, Pranjal Khatri, Tanay Bavchikar
 
 ## Summary
 ### Understanding the project
